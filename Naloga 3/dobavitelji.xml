@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Dobavitelji SYSTEM "trgovina.dtd">
+<Dobavitelji>
+  <Dobavitelj id="D1">
+    <NazivDobavitelja>Comtron d.o.o.</NazivDobavitelja>
+    <Naslov>Trzaska cesta 23, 2000 Maribor</Naslov>
+    <DavcnaSt>SI12345678</DavcnaSt>
+    <Kontakt>info@comtron.si</Kontakt>
+    <Opis>Racunalniska oprema in storitve</Opis>
+  </Dobavitelj>
+</Dobavitelji>

@@ -1,0 +1,23 @@
+<!ELEMENT Dobavitelji (Dobavitelj*)>
+<!ELEMENT Dobavitelj (NazivDobavitelja, Naslov, DavcnaSt, Kontakt, Opis)>
+<!ATTLIST Dobavitelj
+      id ID #REQUIRED>
+
+<!ELEMENT NazivDobavitelja (#PCDATA)>
+<!ELEMENT Naslov (#PCDATA)>
+<!ELEMENT DavcnaSt (#PCDATA)>
+<!ELEMENT Kontakt (#PCDATA)>
+<!ELEMENT Opis (#PCDATA)>
+
+<!ELEMENT Artikli (Artikel*)>
+<!ELEMENT Artikel (NazivArtikla, Cena, Zaloga, DatumZadnjeNabave)>
+<!ATTLIST Artikel
+    id ID #REQUIRED
+    DobaviteljId CDATA #REQUIRED>
+
+<!ELEMENT NazivArtikla (#PCDATA)>
+<!ELEMENT Cena (#PCDATA)>
+<!ATTLIST Cena 
+	valuta (EUR|USD) "EUR">
+<!ELEMENT Zaloga (#PCDATA)>
+<!ELEMENT DatumZadnjeNabave (#PCDATA)>

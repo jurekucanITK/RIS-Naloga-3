@@ -1,0 +1,70 @@
+﻿Comtron d.o.o., Tržaška cesta 23, 2000 Maribor, SI12345678, info@comtron.si, Računalniška oprema in storitve
+MLC d.o.o., Letališka cesta 32, 1000 Ljubljana, SI87654321, info@mlc.si, Distribucija računalniške opreme
+Avtera d.o.o., Stegne 23a, 1000 Ljubljana, SI11223344, info@avtera.si, Veleprodaja IT opreme
+Lancom d.o.o., Cesta v Mestni log 55, 1000 Ljubljana, SI44332211, info@lancom.si, "Rešitve za podjetja in oprema
+Anni d.o.o., Tržaška cesta 133, 1000 Ljubljana, SI99887766, info@anni.si, Prodaja računalniške opreme
+
+Artikli:
+Prenosnik X100, 799,99, 
+{
+  "predmeti": {
+    "0": {
+      "predmetId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "naziv": "Upravljanje IKT",
+      "ects": 5,
+      "semester": "zimski"
+    },
+    "1": {
+      "predmetId": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "naziv": "Razvoj mobilnih rešitev",
+      "ects": 5,
+      "semester": "zimski"
+    },
+    "2": {
+      "predmetId": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "naziv": "Razvoj informacijskih storitev",
+      "ects": 5,
+      "semester": "zimski"
+    },
+    "3": {
+      "predmetId": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "naziv": "Portali in sistemi znanja",
+      "ects": 5,
+      "semester": "zimski"
+    },
+    "4": {
+      "predmetId": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "naziv": "Izbirni predmet II",
+      "ects": 5,
+      "semester": "zimski"
+    },
+    "5": {
+      "predmetId": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "naziv": "Izbirni predmet III",
+      "ects": 5,
+      "semester": "zimski"
+    },
+    "6": {
+      "predmetId": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+      "naziv": "Diplomsko delo",
+      "ects": 5,
+      "semester": "letni"
+    },
+    "7": {
+      "predmetId": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+      "naziv": "Prosto izbirni predmet II",
+      "ects": 5,
+      "semester": "letni"
+    },
+    "8": {
+      "predmetId": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+      "naziv": "Praktično usposabljanje",
+      "ects": 5,
+      "semester": "letni"
+    }
+  }
+}
+Tipkovnica K200, 49,5, 50
+Miška M300, 19,99, 150
+Monitor 24, 129,0, 25
+SSD 512GB, 89,9, 40

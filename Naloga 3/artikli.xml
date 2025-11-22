@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Artikli SYSTEM "trgovina.dtd">
+<Artikli>
+  <Artikel id="A1" DobaviteljId="D1">
+    <NazivArtikla>Prenosnik X100</NazivArtikla>
+    <Cena valuta="EUR">799.99</Cena>
+    <Zaloga>10</Zaloga>
+    <DatumZadnjeNabave>2025-11-01</DatumZadnjeNabave>
+  </Artikel>
+</Artikli>
